@@ -1,4 +1,3 @@
-Good—this constraint forces clarity. Here’s a tight README that doesn’t waste space:
 
 ---
 
@@ -36,6 +35,4 @@ Expect experimental code, minimal structure, and breaking changes.
 
 ---
 
-That’s the correct level of brevity.
 
-If you think anything here can be removed, you’re probably stripping out something future-you will need. If you think it needs more, then you’re no longer being “short and precise”—you’re drifting back to vague.
